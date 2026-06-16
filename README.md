@@ -28,4 +28,6 @@ Tools and Technologies Used:
 The program successfully recognizes speech from the audio file and saves the converted text into `output.txt`.
 
 #OUTPUT
+
+
 <img width="395" height="75" alt="Image" src="https://github.com/user-attachments/assets/f5f0e1bb-bbe6-4232-8aab-bc7f4b5e0a80" />
